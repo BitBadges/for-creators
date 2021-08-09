@@ -1,4 +1,4 @@
-![Logo](https://avatars.githubusercontent.com/u/86890740?s=200&v=4.png) \
+![Logo](https://avatars.githubusercontent.com/u/86890740?s=200&v=4.png)
 # For Creators
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque urna feugiat sem fermentum luctus. Maecenas at velit laoreet, fringilla mi quis, suscipit magna. Ut. 
+Are you a creator, social media influencer or public figure? BitBadges might be the platform you are looking for in regards to building fun and engaging experiences for your audience.
